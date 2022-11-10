@@ -1,1 +1,2 @@
-node_modules
+./template_complier/node_modules
+./mvvm_demo/node_modules
